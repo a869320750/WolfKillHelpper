@@ -1,0 +1,157 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="狼人杀身份登记" Height="450" Width="702.066">
+    <Grid>
+        <WrapPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">1号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">2号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">3号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">4号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">5号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">6号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">7号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">8号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">9号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">10号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">11号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">12号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">13号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">14号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">15号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">16号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">17号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10">18号</Label>
+                <local:ComboBoxUserControl Margin="10"/>
+                <TextBox Width="100" Margin="10"></TextBox>
+                <CheckBox Margin="10" VerticalAlignment="Center" IsChecked="True">
+                    存活
+                </CheckBox>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>

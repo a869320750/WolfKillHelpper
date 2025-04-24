@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="WpfApp.ComboBoxUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp"
+             mc:Ignorable="d">
+    <Grid>
+        <ComboBox SelectedIndex="0" Width="80">
+            <ComboBoxItem>平民</ComboBoxItem>
+            <ComboBoxItem>狼人</ComboBoxItem>
+            <ComboBoxItem>预言家</ComboBoxItem>
+            <ComboBoxItem>女巫</ComboBoxItem>
+            <ComboBoxItem>猎人</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</UserControl>
